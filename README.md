@@ -1,16 +1,19 @@
-### Hi there 👋
+## Matthias Tafelmeier
 
-<!--
-**cherusk/cherusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Software|Systems|Research]Engineer
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cherusk&label=Profile%20views&color=0e75b6&style=flat" alt="cherusk" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on 
+ - Operationalizing and Researching **Metaheuristics Frameworks for approaching Practical Operational Dynamic Multi Objective Optimization Problems**
+
+💬 Ask me about 
+ - Everyhing **Open Source Infrastructure Operations**
+
+### Generic Programming Languages
+
+* Python
+* Shell
+* Go
+* Rust
+* C/C++
