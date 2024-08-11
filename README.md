@@ -12,6 +12,7 @@
 
 ### Generic Programming Languages
 
+* Nim
 * Python
 * Shell
 * Go
