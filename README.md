@@ -11,7 +11,7 @@
 
 💬 Ask me about 
  - Everyhing **Open Source Infrastructure Operations**
- - AI driven Operational Config Optimization with focus on Metaheuristics
+ - Metaheuristics driven Config or Stack Optimization
 
 ⚙️ Generic Programming Languages I favor
 
