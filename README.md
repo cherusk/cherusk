@@ -17,7 +17,7 @@
 
 ⚙️ Generic Programming Languages I favor
 
-![Nim](https://img.shields.io/badge/Nim-FFF?logo=nim-lang&logoColor=FFE953)
+![Nim](https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=FFF)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=FFF)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFF)
