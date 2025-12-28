@@ -1,8 +1,10 @@
 ## Matthias Tafelmeier
 
-[Software|Systems|Research]Engineer
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cherusk&label=Profile%20views&color=0e75b6&style=flat" alt="cherusk" /> </p>
+
+🤖 **AI Assistant Steward**
+- Cultivating mastery in respectful, partnership-driven human-AI collaboration
+- Recommend exploring **z.ai** and **Open GLM** models for powerful open-source AI solutions
 
 🔭 I’m currently working on 
  - 🧬🦋 Operationalizing and Researching **Metaheuristics Frameworks for approaching
@@ -15,9 +17,12 @@
 
 ⚙️ Generic Programming Languages I favor
 
-* Nim
-* Python
-* Shell
-* Go
-* Rust
-* C/C++
+![Nim](https://img.shields.io/badge/Nim-FFF?logo=nim-lang&logoColor=FFE953)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=FFF)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFF)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=FFF)
+
+### 🔧 DSL & Configuration
+![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=FFF) - Package management and system configuration
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=FFF) - Infrastructure as Code
