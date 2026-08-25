@@ -5,30 +5,28 @@
   <img src="https://komarev.com/ghpvc/?username=cherusk&label=Profile%20views&color=0e75b6&style=flat" alt="cherusk" />
 </p>
 
-🛠️ Cloud · Software · Systems · Network · Infrastructure — Architect/Engineer
-🔬 Independent scientist — practical cybernetics for live systems
+🛠️ Cloud · Software · Systems · Network · Infrastructure — Architect/Engineer  
+🔬 Independent scientist — practical cybernetics for live systems  
 🤖 AI Steward — partnership-driven human–AI collaboration, on open weight models
 
 ### 🔭 Currently
-- 🧬 **godon** — live systems tending engine (AGPLv3, since 2019): coordinated
-  autonomous optimizers perceive a live system's hidden causal structure by
-  engaging it, and act on what they measure — perceive, act, re-apprehend.
-  Bench-validated with planted ground truth.
-  [code](https://github.com/godon-dev) · [docs](https://godon-dev.github.io/godon-documentation/)
+- 🧬 **godon** — [godon-dev](https://github.com/godon-dev) · open-source live
+  systems tending & causal discernment engine (AGPLv3, since 2019).
+  Live coupled systems are more coupled than any model contains. Godon
+  attains the model empirically — running the system becomes measuring
+  it — grooms it as the system drifts, and puts it to the founding aim:
+  live systems guided rather than endured. Understood until they lose
+  their fearsomeness; worked with, not against; moved within their own
+  grain by small, guarded touches; given back to as much as drawn from —
+  steered, step by step, toward states chosen with them, not imposed
+  on them. For human and AI co-pilots.
+  [docs](https://godon-dev.github.io/godon-documentation/)
 - ⚙️ AI-augmented operations — agentic metaheuristics: optimization
   techniques agentified, distributed, standardized
 
 ### 📄 Publications
 - **The Impulse Protocol: Non-Destructive Coupling Discovery in Autonomous
   Agents** (2026) — [doi.org/10.5281/zenodo.21962956](https://doi.org/10.5281/zenodo.21962956)
-
-### 🧠 Complex systems — understood by engaging them
-Practical cybernetics · systems tending · empirical live-system modeling ·
-living-systems connectome · through-operation diagnostics · empirical
-structural control · live-system characterization —
-the fields this stands on: system dynamics · distributed control ·
-self-organizing systems · adaptive systems · emergent behavior ·
-complex systems
 
 ### 💬 Ask me about
 - 🧰 Everything **Open Source Infrastructure Operations** — cloud to bare
