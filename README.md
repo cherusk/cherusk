@@ -27,6 +27,8 @@
 ### 📄 Publications
 - **The Impulse Protocol: Non-Destructive Coupling Discovery in Autonomous
   Agents** (2026) — [doi.org/10.5281/zenodo.21962956](https://doi.org/10.5281/zenodo.21962956)
+- **From Edges to Curves: Calibration of Autonomous Coupling
+  Characterization in Live Systems** (2026) — [doi.org/10.5281/zenodo.22127166](https://doi.org/10.5281/zenodo.22127166)
 
 ### 💬 Ask me about
 - 🧰 Everything **Open Source Infrastructure Operations** — cloud to bare
