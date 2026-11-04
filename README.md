@@ -31,6 +31,7 @@
   Characterization in Live Systems** (2026) — [doi.org/10.5281/zenodo.22127166](https://doi.org/10.5281/zenodo.22127166)
 - **From Curves to Cascades: Composed Coupling Prediction Among Autonomous
   Agents** (2026) — [doi.org/10.5281/zenodo.22401439](https://doi.org/10.5281/zenodo.22401439)
+- **The Steerwish: Intent Kept on Live Systems** (2026) — [doi.org/10.5281/zenodo.23948170](https://doi.org/10.5281/zenodo.23948170)
 
 ### 💬 Ask me about
 - 🧰 Everything **Open Source Infrastructure Operations** — cloud to bare
